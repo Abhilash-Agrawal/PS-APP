@@ -1,20 +1,19 @@
 This is a [SpaceX Launch Programs](https://ps-spacext.herokuapp.com) Application.
 
-## Getting Started
+## Stack Details
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- React JS
+- Next JS
+- Jest
+- React testing library
+- Eslint
+- Travis
+- Heroku
 
 ## Learn More
+
+```bash
+```
 
 To learn more about Next.js, take a look at the following resources:
 
