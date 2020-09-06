@@ -12,10 +12,9 @@ This is a [SpaceX Launch Programs](https://ps-spacext.herokuapp.com) Application
 
 ## Learn More
 
-```bash
 ![Lighthouse Report](https://github.com/Abhilash-Agrawal/PS-APP/blob/master/public/lighthouse_1.png?raw=true "LighthHouse report")
-```
 
-```bash
+
+
 ![Lighthouse Report Details](https://github.com/Abhilash-Agrawal/PS-APP/blob/master/public/lighthouse_2.png?raw=true "LighthHouse report")
-```
+
