@@ -39,7 +39,7 @@ const Index = ({ data, params }) => {
   return (
     <div className="xt-div">
       <header className="app-head">
-        Space X Launch Programs
+        SpaceX Launch Programs
       </header>
       <section className="grid-container">
         <Filter

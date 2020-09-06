@@ -23,7 +23,7 @@ const setup = (value) => {
 describe('Index Page', () => {
   it('Render Index Page with heading and filters', () => {
     const { getByText } = setup({});
-    expect(getByText('Space X Launch Programs')).toBeInTheDocument();
+    expect(getByText('SpaceX Launch Programs')).toBeInTheDocument();
     expect(getByText('Filters')).toBeInTheDocument();
     expect(getByText('Launch Year')).toBeInTheDocument();
     expect(getByText('Successful Launch')).toBeInTheDocument();
