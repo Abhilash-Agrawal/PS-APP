@@ -1,0 +1,16 @@
+.button{
+    display: inline-block;
+    font-family: inherit;
+    font-weight: 500;
+    border-radius: 4px;
+    border-radius: 8px!important;
+    padding: 1rem 0rem;
+    line-height: 9px;
+    background: #c3e293;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    font-size: 27px;
+    font-family: sans-serif;
+    border: 0px;
+}
+

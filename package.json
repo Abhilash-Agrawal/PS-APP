@@ -1,0 +1,41 @@
+{
+  "name": "ps_app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "test": "jest",
+    "test:lint:js": "eslint --ext=js --ext=jsx ."
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.9.0",
+    "axios": "^0.19.2",
+    "next": "9.5.2",
+    "next-babel-minify": "^1.0.0",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "travis-cli": "^1.0.9",
+    "yargs-parser": "^13.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@testing-library/dom": "^6.5.1",
+    "@testing-library/react": "^10.2.1",
+    "@testing-library/user-event": "^7.0.1",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^24.8.0",
+    "enzyme": "^3.9.0",
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "jest": "^24.8.0",
+    "jest-enzyme": "^7.0.2",
+    "webpack": "^2.0.0"
+  }
+}
